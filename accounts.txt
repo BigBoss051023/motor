@@ -1,0 +1,15 @@
+-paypal
+sb-se2nj36875341@personal.example.com
+Qn+@vU1B
+
+-strapi
+admin@gmail.com
+Admin123
+
+-react
+cd richard_shop
+npm run dev
+
+-strapi
+cd strapi
+npm run develop

@@ -1,0 +1,17 @@
+{
+  "kind": "collectionType",
+  "collectionName": "branches",
+  "info": {
+    "singularName": "branch",
+    "pluralName": "branches",
+    "displayName": "Branch"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "attributes": {
+    "branch_name": {
+      "type": "string"
+    }
+  }
+}
